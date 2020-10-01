@@ -71,14 +71,17 @@ InitTestScene*.unity
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # Custom ignores
-/[Aa]ssets/HomeStuff/*
-/[Aa]ssets/Oculus/*
-/[Aa]ssets/One-Click_Wall_Materials/*
-/[Aa]ssets/PBR Lamps Pack Free/*
-/[Aa]ssets/Plugins/*
-/[Aa]ssets/Resources/*
-/[Aa]ssets/Samples/*
-/[Aa]ssets/Toon Furniture/*
-/[Aa]ssets/WorldMaterialsFree/*
-/[Aa]ssets/XR/*
-/[Aa]ssets/SteamVR/*
+/[Aa]ssets/HomeStuff*
+/[Aa]ssets/Oculus*
+/[Aa]ssets/One-Click_Wall_Materials*
+/[Aa]ssets/PBR Lamps Pack Free*
+/[Aa]ssets/Plugins*
+/[Aa]ssets/Resources*
+/[Aa]ssets/Samples*
+/[Aa]ssets/Toon Furniture*
+/[Aa]ssets/WorldMaterialsFree*
+/[Aa]ssets/XR*
+/[Aa]ssets/SteamVR*
+/[Aa]ssets/SteamVR_Resources*
+/[Aa]ssets/StreamingAssets*
+/[Aa]ssets/Models/lamp.fbx*
